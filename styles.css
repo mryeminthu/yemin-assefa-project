@@ -9,14 +9,48 @@ body {
     box-sizing: border-box;
     }
     #img-div {
-        background-color: white;
-        margin: 40px 20px;
-        padding: 20px 10px;
+        justify-content: center;
+        margin-top: 30px;
+        
+      }
+      #tribute-link {
+        display: block;
+        text-align: center;
+        margin-top: 30px;
+        font-weight: bold;
       }
       img {
         margin-bottom: 15px;
         max-width: 100%;
         height: auto;
+        display: block;
       }  
-      
-  
+      #title {
+        text-align: center;
+        margin-top: 50px;
+        font-size: 5vh;
+        padding: 5vh;
+      }
+      #tribute-link {
+        display: block;
+        text-align: center;
+        margin-top: 30px;
+        font-weight: bold;
+      }
+      #tribute-info {
+        text-align: justify;
+        margin-top: 30px;
+      }
+      #img-caption {
+        text-align: center;
+        margin-top: 10px;
+        font-size: 2vh;
+        font-style: bold;
+      }
+      #image {
+        max-width: 100%;
+        height: 80vh;
+        display: block;
+        margin: 0 auto;
+    
+      }
