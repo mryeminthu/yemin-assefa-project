@@ -1,4 +1,9 @@
 body {
     margin-top: 55px;
   }
+  #main {
+    background-color: #EEEEEE;
+    margin: 20px 0;
+    font-weight: 300;
+    }
   
