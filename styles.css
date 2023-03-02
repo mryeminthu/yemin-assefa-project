@@ -7,7 +7,7 @@ body {
     font-weight: 300;
     text-align: center;
     box-sizing: border-box;
-    }
+        }
     #img-div {
         background-color: white;
         margin: 40px 20px;
@@ -18,5 +18,9 @@ body {
         max-width: 100%;
         height: auto;
       }  
+      #title {
+        font-size: 150%;
+        padding-top: 50px;
+      }
       
   
