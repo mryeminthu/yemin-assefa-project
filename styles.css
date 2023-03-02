@@ -3,18 +3,18 @@ body {
   }
   #main {
     background-color: #EEEEEE;
-    margin: 30px 0;
-    font-weight: 300;
+    margin: 40px 0;
+    font-weight: 250;
     text-align: center;
     box-sizing: border-box;
-        }
+           }
     #img-div {
         background-color: white;
         margin: 40px 20px;
         padding: 20px 10px;
       }
       img {
-        margin-bottom: 15px;
+        margin: 15px;
         max-width: 100%;
         height: auto;
       }  
@@ -22,5 +22,14 @@ body {
         font-size: 150%;
         padding-top: 50px;
       }
-      
+      #tribute-info {
+        width: 60%;
+        margin: 0 auto;
+      }
+      h3, ul {
+        margin-bottom: 40px;
+      }
+      ul li {
+        margin: 15px 0;
+      }
   
